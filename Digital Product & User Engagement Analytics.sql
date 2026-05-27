@@ -1,7 +1,6 @@
 /*******************************************************************************
 PROJECT: Digital Product & User Engagement Analytics
-AUTHOR: [Your Name]
-DATE: May 2026
+
 DESCRIPTION: This project analyzes user event streams, session metrics, and 
              subscription data to identify product friction points, measure app 
              stickiness, and discover features that minimize customer churn.
